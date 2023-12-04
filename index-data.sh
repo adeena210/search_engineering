@@ -6,7 +6,7 @@ usage()
 }
 
 DATASETS_DIR="/workspace/datasets"
-PYTHON_LOC="/workspace/search_engineering"
+PYTHON_LOC="."
 WEEK="utilities" #Default indexing is in utilities
 PRODUCTS_JSON_FILE="bbuy_products.json"
 HOST="localhost"
